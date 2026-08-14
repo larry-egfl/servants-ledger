@@ -1,0 +1,18 @@
+[
+  {"keyword":"servant of the lake walkthrough","intent":"walkthrough","page":"day-one-walkthrough","status":"live","priority":1},
+  {"keyword":"servant of the lake day 1 walkthrough","intent":"walkthrough","page":"day-one-walkthrough","status":"live","priority":1},
+  {"keyword":"servant of the lake demo walkthrough","intent":"walkthrough","page":"demo-walkthrough","status":"live","priority":1},
+  {"keyword":"servant of the lake portrait code","intent":"puzzle","page":"portrait-code","status":"live","priority":1},
+  {"keyword":"servant of the lake porridge puzzle","intent":"puzzle","page":"porridge-puzzle","status":"live","priority":1},
+  {"keyword":"servant of the lake aldous morning routine","intent":"puzzle","page":"aldous-morning-routine","status":"live","priority":1},
+  {"keyword":"servant of the lake chandelier puzzle","intent":"puzzle","page":"chandelier-puzzle","status":"live","priority":1},
+  {"keyword":"servant of the lake release date platforms","intent":"facts","page":"release-date-platforms","status":"live","priority":2},
+  {"keyword":"servant of the lake system requirements","intent":"facts","page":"system-requirements","status":"live","priority":2},
+  {"keyword":"servant of the lake story timeline","intent":"lore","page":"story-timeline","status":"live","priority":2},
+  {"keyword":"how long is servant of the lake","intent":"facts","page":"how-long-to-beat","status":"live","priority":2},
+  {"keyword":"servant of the lake achievements","intent":"completion","page":"achievements","status":"live","priority":2},
+  {"keyword":"servant of the lake beginner tips","intent":"guide","page":"beginner-tips","status":"live","priority":2},
+  {"keyword":"servant of the lake cockroach puzzle","intent":"puzzle","page":"cockroach-puzzle","status":"researching","priority":1},
+  {"keyword":"servant of the lake flower arrangement","intent":"puzzle","page":"flower-arrangement","status":"researching","priority":1},
+  {"keyword":"servant of the lake day 2 walkthrough","intent":"walkthrough","page":"day-two-walkthrough","status":"researching","priority":1}
+]
